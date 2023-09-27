@@ -58,7 +58,7 @@ const Footer = () => {
           <div className="policy-col">
             <p>
               Design with <i class="fa-sharp fa-solid fa-heart"></i> by{" "}
-              <a href="https://maitretech.com/">maitretech.com</a>
+              <a href="https://spatidarportfolio.netlify.app/">Shyam Patidar</a>
             </p>
           </div>
         </div>
